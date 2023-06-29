@@ -27,3 +27,13 @@ Please note as Fortan keep appending string to comment section until newline is 
 ![pic1](https://github.com/Zeinahesham308/FortranCompiler/assets/108671897/ec92bba7-22d3-4c33-bab6-06171211b929)
 
 
+
+
+handling some reserverd words even if they are entered with space :
+![pic2](https://github.com/Zeinahesham308/FortranCompiler/assets/108671897/dfd6ad6d-8f23-49f9-93d1-efa40a808af9)
+
+
+
+
+
+
