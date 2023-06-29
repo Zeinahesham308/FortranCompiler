@@ -1,0 +1,1 @@
+A Python code that serves as a simple form of a Fortran compiler could be designed to perform basic lexical analysis and translation of Fortran code into an intermediate representation. The purpose of such a compiler would be to demonstrate the foundational concepts involved in the compilation process
