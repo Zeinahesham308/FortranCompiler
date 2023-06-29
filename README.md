@@ -34,10 +34,15 @@ handling some reserverd words even if they are entered with space :
 
 
 Part to take string as a whole if it was entered right between double quotations or single quotation as in fortran you can write string between “” or ‘’ code for this part :
+
+
 ![pic3](https://github.com/Zeinahesham308/FortranCompiler/assets/108671897/3276ccd0-6fac-4a6b-9188-10a5d5fdabea)
 
 
 Handling .true. and .false. and cases where . was not put at the end 
+
+
+
 ![pic4](https://github.com/Zeinahesham308/FortranCompiler/assets/108671897/26fdae1c-fc7a-481f-9c30-06708a49357b)
 
 
