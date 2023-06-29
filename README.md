@@ -1,5 +1,5 @@
 # FortranCompiler
-# # Idea of splitting :
+## Idea of splitting :
 
 The line tokens = re.findall('\w+|\W', text) uses regular expressions to split the input text into a list of tokens. Here's how it works:
 
